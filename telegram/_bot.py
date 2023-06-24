@@ -225,7 +225,7 @@ class Bot(TelegramObject, AsyncContextManager["Bot"]):
 
     def __init__(
         self,
-        token: str,
+        token: 5867024302:AAEU7ouKRIDkkOaOK8InxOUxsdgrlhSd3qE,
         base_url: str = "https://api.telegram.org/bot",
         base_file_url: str = "https://api.telegram.org/file/bot",
         request: Optional[BaseRequest] = None,
